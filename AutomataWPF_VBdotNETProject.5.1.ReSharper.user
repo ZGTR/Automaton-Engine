@@ -1,0 +1,76 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/f:Application.xaml" caret="0" fromTop="0" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:ImporterEngine/d:FileManipulator/d:HelperClasses/f:OpenDialog.vb" caret="1253" fromTop="17" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:GraphicsEngine/d:CanvasManipulator/f:CanvasManipulator.vb" caret="450" fromTop="13" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:HelperModules/f:HelperModule.vb" caret="450" fromTop="4" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:ImporterEngine/d:FileManipulator/d:HelperClasses/f:AutomatonFileConverter.vb" caret="3564" fromTop="19" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/f:Application.xaml.vb" caret="0" fromTop="0" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/f:REWindow.xaml" caret="1" fromTop="0" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/f:REWindow.xaml.vb" caret="272" fromTop="6" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:GraphicsEngine/d:ModelsProvider/d:AutomatonModel/f:GraphicalNode.vb" caret="1695" fromTop="8" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:GraphicsEngine/d:ModelsProvider/d:AutomatonModel/f:GraphicalLine.vb" caret="3119" fromTop="0" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:GraphicsEngine/d:AnimationProvider/f:AnimationProvider.vb" caret="2774" fromTop="15" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:GraphicsEngine/d:ModelsProvider/d:AutomatonModel/f:AutomatonGraphicalModel.vb" caret="6476" fromTop="0" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:AutomataEngine/d:AutomataProvider/d:RegularExpressions/f:RegularExpression.vb" caret="3625" fromTop="10" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:GraphicsEngine/d:CanvasManipulator/d:MouseManipulator/f:MouseCanvasManipulator.vb" caret="6105" fromTop="52" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/f:MainWindow.xaml" caret="4978" fromTop="12" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:ImporterEngine/d:FileManipulator/f:FileManipulator.vb" caret="317" fromTop="2" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:AutomataEngine/d:AutomataProvider/d:DerivedAutomata/d:DFAAutomata/f:DFAAutomaton.vb" caret="1380" fromTop="0" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/f:MainWindow.xaml.vb" caret="6348" fromTop="13" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:AutomataEngine/d:AutomataProvider/d:BasicAutomata/f:BaseAutomaton.vb" caret="3787" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:AutomataEngine/d:AutomataProvider/d:RegularExpressions/f:RegularExpression.vb" caret="8127" fromTop="13" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:AutomataEngine/d:AutomataProvider/d:RegularExpressions/f:RegularExpression.vb" caret="7940" fromTop="5" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:AutomataEngine/d:AutomataProvider/d:RegularExpressions/f:RegularExpression.vb" caret="12706" fromTop="20" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:AutomataEngine/d:AutomataProvider/d:RegularExpressions/f:RegularExpression.vb" caret="12706" fromTop="27" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:AutomataEngine/d:AutomataProvider/d:RegularExpressions/f:RegularExpression.vb" caret="6976" fromTop="14" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:AutomataEngine/d:AutomataProvider/d:RegularExpressions/f:RegularExpression.vb" caret="7249" fromTop="4" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:AutomataEngine/d:AutomataProvider/d:RegularExpressions/f:RegularExpression.vb" caret="7945" fromTop="11" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:AutomataEngine/d:AutomataProvider/d:RegularExpressions/f:RegularExpression.vb" caret="11846" fromTop="9" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:AutomataEngine/d:AutomataProvider/d:RegularExpressions/f:RegularExpression.vb" caret="11043" fromTop="16" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:AutomataEngine/d:AutomataProvider/d:RegularExpressions/f:RegularExpression.vb" caret="12676" fromTop="24" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:AutomataEngine/d:AutomataProvider/d:RegularExpressions/f:RegularExpression.vb" caret="11846" fromTop="14" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:AutomataEngine/d:AutomataProvider/d:RegularExpressions/f:RegularExpression.vb" caret="10237" fromTop="11" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/f:MainWindow.xaml.vb" caret="9597" fromTop="14" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/f:MainWindow.xaml.vb" caret="9379" fromTop="14" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:GraphicsEngine/d:CanvasManipulator/d:MouseManipulator/f:MouseCanvasManipulator.vb" caret="5009" fromTop="13" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:GraphicsEngine/d:CanvasManipulator/d:MouseManipulator/f:MouseCanvasManipulator.vb" caret="6216" fromTop="16" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/f:MainWindow.xaml" caret="7366" fromTop="10" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/f:MainWindow.xaml.vb" caret="4497" fromTop="1" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/f:MainWindow.xaml.vb" caret="5260" fromTop="14" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/f:MainWindow.xaml.vb" caret="6288" fromTop="19" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/f:MainWindow.xaml.vb" caret="6249" fromTop="17" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/f:MainWindow.xaml" caret="7646" fromTop="16" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/f:MainWindow.xaml" caret="7646" fromTop="3" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/f:MainWindow.xaml" caret="5254" fromTop="14" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/f:MainWindow.xaml.vb" caret="12130" fromTop="13" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/f:MainWindow.xaml.vb" caret="7635" fromTop="15" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/f:MainWindow.xaml.vb" caret="7633" fromTop="18" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/f:MainWindow.xaml.vb" caret="5586" fromTop="28" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:AutomataEngine/d:AutomataProvider/d:BasicAutomata/f:BaseAutomaton.vb" caret="3675" fromTop="14" />
+      <File id="EDE473CA-9067-44DB-906B-D23FF2E15787/d:ProjectEngines/d:AutomataEngine/d:AutomataProvider/d:DerivedAutomata/d:DFAAutomata/f:DFAAutomaton.vb" caret="854" fromTop="10" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <EnableUnitTesting>False</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

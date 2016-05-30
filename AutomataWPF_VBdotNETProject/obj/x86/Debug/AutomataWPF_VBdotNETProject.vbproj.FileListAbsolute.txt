@@ -1,0 +1,80 @@
+c:\users\zgtr\documents\visual studio 2010\Projects\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\AutomataWPF_VBdotNETProject.exe
+c:\users\zgtr\documents\visual studio 2010\Projects\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\AutomataWPF_VBdotNETProject.pdb
+c:\users\zgtr\documents\visual studio 2010\Projects\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\AutomataWPF_VBdotNETProject.xml
+c:\users\zgtr\documents\visual studio 2010\Projects\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\3DTools.pdb
+c:\users\zgtr\documents\visual studio 2010\Projects\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\zgtr\documents\visual studio 2010\Projects\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\MainWindow.baml
+c:\users\zgtr\documents\visual studio 2010\Projects\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\MainWindow.g.vb
+c:\users\zgtr\documents\visual studio 2010\Projects\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\Application.g.vb
+c:\users\zgtr\documents\visual studio 2010\Projects\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\AutomataWPF_VBdotNETProject_MarkupCompile.cache
+c:\users\zgtr\documents\visual studio 2010\Projects\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\AutomataWPF_VBdotNETProject.g.resources
+c:\users\zgtr\documents\visual studio 2010\Projects\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\AutomataWPF_VBdotNETProject.Resources.resources
+c:\users\zgtr\documents\visual studio 2010\Projects\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\zgtr\documents\visual studio 2010\Projects\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\zgtr\documents\visual studio 2010\Projects\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\AutomataWPF_VBdotNETProject.exe
+c:\users\zgtr\documents\visual studio 2010\Projects\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\AutomataWPF_VBdotNETProject.xml
+c:\users\zgtr\documents\visual studio 2010\Projects\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\AutomataWPF_VBdotNETProject.pdb
+C:\Users\ZGTR\Desktop\Projects\Automata\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\AutomataWPF_VBdotNETProject.exe
+C:\Users\ZGTR\Desktop\Projects\Automata\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\AutomataWPF_VBdotNETProject.pdb
+C:\Users\ZGTR\Desktop\Projects\Automata\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\AutomataWPF_VBdotNETProject.xml
+C:\Users\ZGTR\Desktop\Projects\Automata\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Desktop\Projects\Automata\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\MainWindow.baml
+C:\Users\ZGTR\Desktop\Projects\Automata\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\MainWindow.g.vb
+C:\Users\ZGTR\Desktop\Projects\Automata\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\Application.g.vb
+C:\Users\ZGTR\Desktop\Projects\Automata\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\AutomataWPF_VBdotNETProject_MarkupCompile.cache
+C:\Users\ZGTR\Desktop\Projects\Automata\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\AutomataWPF_VBdotNETProject.g.resources
+C:\Users\ZGTR\Desktop\Projects\Automata\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\AutomataWPF_VBdotNETProject.Resources.resources
+C:\Users\ZGTR\Desktop\Projects\Automata\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ZGTR\Desktop\Projects\Automata\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ZGTR\Desktop\Projects\Automata\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\AutomataWPF_VBdotNETProject.exe
+C:\Users\ZGTR\Desktop\Projects\Automata\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\AutomataWPF_VBdotNETProject.xml
+C:\Users\ZGTR\Desktop\Projects\Automata\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\AutomataWPF_VBdotNETProject.pdb
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\AutomataWPF_VBdotNETProject.exe
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\AutomataWPF_VBdotNETProject.xml
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\AutomataWPF_VBdotNETProject.pdb
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\MainWindow.baml
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\MainWindow.g.vb
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\Application.g.vb
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\AutomataWPF_VBdotNETProject_MarkupCompile.cache
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\AutomataWPF_VBdotNETProject.g.resources
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\AutomataWPF_VBdotNETProject.Resources.resources
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\AutomataWPF_VBdotNETProject.exe
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\AutomataWPF_VBdotNETProject.pdb
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\AutomataWPF_VBdotNETProject.xml
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\Telerik.Windows.Controls.RibbonBar.dll
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\Telerik.Windows.Controls.RibbonBar.pdb
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\Telerik.Windows.Controls.RibbonBar.xml
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\REWindow.baml
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\REWindow.g.vb
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject - Copy (26)\AutomataWPF_VBdotNETProject\obj\x86\Debug\AutomataWPF_VBdotNETProject.exe
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject - Copy (26)\AutomataWPF_VBdotNETProject\obj\x86\Debug\AutomataWPF_VBdotNETProject.xml
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject - Copy (26)\AutomataWPF_VBdotNETProject\obj\x86\Debug\AutomataWPF_VBdotNETProject.pdb
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\Telerik.Windows.Controls.Docking.dll
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\Telerik.Windows.Controls.GridView.dll
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\Telerik.Windows.Controls.Docking.pdb
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\Telerik.Windows.Controls.Docking.xml
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\Telerik.Windows.Controls.GridView.pdb
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\bin\Debug\Telerik.Windows.Controls.GridView.xml
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\ChainResult.baml
+C:\Users\ZGTR\Desktop\Projects\Automata\ProjectSolutions\AutomataWPF_VBdotNETProject\AutomataWPF_VBdotNETProject\obj\x86\Debug\ChainResult.g.vb

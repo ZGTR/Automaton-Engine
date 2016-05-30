@@ -1,0 +1,11 @@
+﻿<telerik:RadWindow x:Class="ChainResult"
+		xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+		xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+		xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation"
+		Header="Chain Result" Height="133" Width="471">
+    <Grid>
+        <Label  Height="28" HorizontalAlignment="Left" Margin="27,21,0,0" Name="LabelResult" VerticalAlignment="Top" Width="405" FontFamily="Eras ITC" />
+        <telerik:RadButton Content="OK" Height="23" HorizontalAlignment="Left" Margin="357,66,0,0" Name="RadButton1" VerticalAlignment="Top" Width="75" />
+
+    </Grid>
+</telerik:RadWindow>
